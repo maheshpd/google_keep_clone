@@ -1,16 +1,3 @@
 # google_keep_clone
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/26844387/175844111-d1d78fcd-d1b0-4fa2-9ec8-dc10b7142ba7.png" width="200" height="400" />  <img src="https://user-images.githubusercontent.com/26844387/175844124-332f170b-0476-4f92-aac6-a41f4ea6fe6b.png" width="200" height="400" /> <img src="https://user-images.githubusercontent.com/26844387/175844126-7a0dca76-4f6d-444e-9693-83a136bdabd7.png" width="200" height="400" /> <img src="https://user-images.githubusercontent.com/26844387/175844133-8680c075-ac87-442c-a312-164c60049da2.png" width="200" height="400" />  
